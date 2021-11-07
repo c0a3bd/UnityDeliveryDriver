@@ -1,0 +1,14 @@
+exclude/
+.vscode/
+*.sln
+*.csproj
+*.meta
+*.unity
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+obj/
+
